@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+}
+
+.row {
+    font-size: 12px;
+    font-family: 'Courier', sans-serif;
+}
+
+.row_hdr {
+    font-weight: bold;
+    margin: 4px;
+}
+
+.highlight {
+    background: yellow;
+}
