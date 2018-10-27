@@ -5,8 +5,8 @@ define('ROOT_DIR', '/');
 
 define('DEBUG_MODE', 0);
 define('SECURE_ROUTE', '__');
-define('DOMAIN', 'projectportent.info');
-define('DOMAIN_ALIAS_ALLOWED', '/(ru|en)\.projectportent\.info/');
+define('DOMAIN', 'ws.local');
+define('DOMAIN_ALIAS_ALLOWED', '/.*.ws\.local/');
 
 define('DEFAULT_LANGUAGE', 'en');
 define('DEFAULT_LANGUAGE_CODE', 'en-us');
